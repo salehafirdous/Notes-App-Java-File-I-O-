@@ -62,6 +62,6 @@ Your Notes
 - Submit internship task report on GitHub with README.md.
 ```
 
-Name: Saleha Firdous Syed Qamar
-Java Full Stack Development Intern
-Date: 26-09-2025
+- Name: Saleha Firdous Syed Qamar
+- Java Full Stack Development Intern
+- Date: 26-09-2025
