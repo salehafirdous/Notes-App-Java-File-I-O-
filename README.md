@@ -63,5 +63,5 @@ Your Notes
 ```
 
 - Name: Saleha Firdous Syed Qamar
-- Java Full Stack Development Intern
+- Java Full Stack Developer Intern
 - Date: 26-09-2025
